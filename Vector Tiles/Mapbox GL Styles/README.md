@@ -4,6 +4,10 @@ These are Mapbox GL styles (.json) for OS Open Zoomstack Vector Tiles for use in
 
 *They have been designed to work with the data as it is supplied.*
 
+## Sprites and Fonts
+
+We are supplying the fonts and sprites if you want to use the styles offline/local. They work with all 4 styles.
+
 ## Additional information
 
 [More information about OS Open Zoomstack, including a guide to getting started](http://www.ordnancesurvey.co.uk/business-and-government/products/os-open-zoomstack.html)
