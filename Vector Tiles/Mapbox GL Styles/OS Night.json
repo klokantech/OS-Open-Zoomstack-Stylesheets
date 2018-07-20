@@ -43,7 +43,7 @@
     },
     "sources": {
         "composite": {
-            "url": "ADD SOURCE URL HERE",
+            "url": "mapbox://ADD SOURCE URL HERE",
             "type": "vector"
         }
     },
